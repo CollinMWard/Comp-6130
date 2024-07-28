@@ -1,4 +1,6 @@
-Code is kepy simple.
+Pytorch implementation of 'Attention is All You Need Transformer' model + some modernization
+Used to translate German to English
+Code is kept simple.
 Once all dependencies are downloaded, 
 adjust config file as desired and execute main. 
 dependencies:
